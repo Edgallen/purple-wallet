@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "purple-app",
+      "name": "purple-wallet",
       "dependencies": {
         "@angular/common": "^21.2.0",
         "@angular/compiler": "^21.2.0",
